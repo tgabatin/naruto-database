@@ -1,5 +1,391 @@
 {
     "characters": [
-        
+        {
+            "name": "Amado"
+        },
+        {
+            "name": "Ami"
+        },
+        {
+            "name": "Anko Mitarashi"
+        },
+        {
+            "name": "Aoba Yamashiro"
+        },
+        {
+            "name": "Asuma Sarutobi"
+        },
+        {
+            "name": "Bekko"
+        },
+        {
+            "name": "Biscuit"
+        },
+        {
+            "name": "Boruto Uzumaki"
+        },
+        {
+            "name": "Choji Akimichi"
+        },
+        {
+            "name": "Choza Akimichi"
+        },
+        {
+            "name": "Daikoku Funeno"
+        },
+        {
+            "name": "Dan Kato"
+        },
+        {
+            "name": "Danzo Shimura"
+        },
+        {
+            "name": "Ebisu"
+        },
+        {
+            "name": "Ensui Nara"
+        },
+        {
+            "name": "First Hokage"
+        },
+        {
+            "name": "Fourth Hokage"
+        },
+        {
+            "name": "Fu Yamanaka"
+        },
+        {
+            "name": "Genma Shiranui"
+        },
+        {
+            "name": "Guruko"
+        },
+        {
+            "name": "Hamaki Mimura"
+        },
+        {
+            "name": "Hana Inuzuka"
+        },
+        {
+            "name": "Hanabi Hyuga"
+        },
+        {
+            "name": "Hayase"
+        },
+        {
+            "name": "Hayate Gekko"
+        },
+        {
+            "name": "Hiashi Hyuga"
+        },
+        {
+            "name": "Hinata Hyuga"
+        },
+        {
+            "name": "Hizashi Hyuga"
+        },
+        {
+            "name": "Hoheta Hyuga"
+        },
+        {
+            "name": "Homura Mitokado"
+        },
+        {
+            "name": "Hosei"
+        },
+        {
+            "name": "Hyou"
+        },
+        {
+            "name": "Ibiku Morino"
+        },
+        {
+            "name": "Iklkaku Umino"
+        },
+        {
+            "name": "Inaho"
+        },
+        {
+            "name": "Ino Yamanaka"
+        },
+        {
+            "name": "Inoichi Yamanaka"
+        },
+        {
+            "name": "Inomatsu"
+        },
+        {
+            "name": "Itachi Uchiha"
+        },
+        {
+            "name": "Iwana Akame"
+        },
+        {
+            "name": "Iwashi Tatami"
+        },
+        {
+            "name": "Izumo Kamizuki"
+        },
+        {
+            "name": "Jiraiya"
+        },
+        {
+            "name": "Kabuto Yakushi"
+        },
+        {
+            "name": "Kakashi Hatake"
+        },
+        {
+            "name": "Kanpo"
+        },
+        {
+            "name": "Kiba Inuzuka"
+        },
+        {
+            "name": "Kito"
+        },
+        {
+            "name": "Ko Hyuga"
+        },
+        {
+            "name": "Kohari Umino"
+        },
+        {
+            "name": "Koharu Utatane"
+        },
+        {
+            "name": "Komugi"
+        },
+        {
+            "name": "Konohamaru Sarutobi"
+        },
+        {
+            "name": "Kotetsu Hagane"
+        },
+        {
+            "name": "Kumade Toriichi" 
+        },
+        {
+            "name": "Kumadori"
+        },
+        {
+            "name": "Kunugi Mokume"
+        },
+        {
+            "name": "Kurenai Yuhi"
+        },
+        {
+            "name": "Kuromaru"
+        },
+        {
+            "name": "Kushina Uzumaki"
+        }, 
+        {
+            "name": "Madara Uchiha"
+        },
+        {
+            "name": "Metal Lee"
+        },
+        {
+            "name": "Might Guy"
+        },
+        {
+            "name": "Minoji"
+        },
+        {
+            "name": "Misumi Tsurugi"
+        },
+        {
+            "name": "Mitate"
+        },
+        {
+            "name": "Mito Uzumaki"
+        },
+        {
+            "name": "Mitsuki"
+        },
+        {
+            "name": "Mizuki"
+        },
+        {
+            "name": "Moegi"
+        },
+        {
+            "name": "Mogusa"
+        },
+        {
+            "name": "Mozuku"
+        },
+        {
+            "name": "Muta Aburame"
+        },
+        {
+            "name": "Naruto Uzumaki"
+        },
+        {
+            "name": "Natori"
+        },
+        {
+            "name": "Nawaki"
+        },
+        {
+            "name": "Neji Hyuga"
+        },
+        {
+            "name": "Nono Yakushi"
+        },
+        {
+            "name": "Okei"
+        },
+        {
+            "name": "Orochimaru"
+        },
+        {
+            "name": "Oyone"
+        },
+        {
+            "name": "Pakkun"
+        },
+        {
+            "name": "Raido Namiashi"
+        },
+        {
+            "name": "Ranka"
+        },
+        {
+            "name": "Rock Lee"
+        },
+        {
+            "name": "Sai"
+        },
+        {
+            "name": "Sakura Haruno"
+        },
+        {
+            "name": "Santa Yamanaka"
+        },
+        {
+            "name": "Sarada Uchiha"
+        },
+        {
+            "name": "Sasuke Uchiha"
+        }, 
+        {
+            "name": "Second Hokage"
+        },
+        {
+            "name": "Shiba"
+        },
+        {
+            "name": "Shibi Aburame"
+        },
+        {
+            "name": "Shibire"
+        },
+        {
+            "name": "Shiho"
+        },
+        {
+            "name": "Shikadai Nara"
+        },
+        {
+            "name": "Shikaku Nara"
+        },
+        {
+            "name": "Shikamaru Nara"
+        },
+        {
+            "name": "Shimon Hijiri"
+        },
+        {
+            "name": "Shin"
+        },
+        {
+            "name": "Shinku Yuhi"
+        },
+        {
+            "name": "Shino Aburame"
+        },
+        {
+            "name": "Shinobu Mibu"
+        },
+        {
+            "name": "Shisui Uchiha"
+        },
+        {
+            "name": "Shizune"
+        },
+        {
+            "name": "Suzume"
+        },
+        {
+            "name": "Tanzo"
+        },
+        {
+            "name": "Tenten"
+        },
+        {
+            "name": "Hiruzen Sarutobi"
+        },
+        {
+            "name": "Three Haimaru Brothers"
+        },
+        {
+            "name": "Tobi"
+        },
+        {
+            "name": "Tobio"
+        },
+        {
+            "name": "Tokara"
+        },
+        {
+            "name": "Tokuma Hyuga"
+        },
+        {
+            "name": "Tonbo Tobitake"
+        },
+        {
+            "name": "Torifu Akimichi"
+        },
+        {
+            "name": "Torune"
+        },
+        {
+            "name": "Tsume Inuzuka"
+        },
+        {
+            "name": "Tsunade"
+        },
+        {
+            "name": "Tsuzumi Sarugaku"
+        },
+        {
+            "name": "Udon"
+        },
+        {
+            "name": "Uhei"
+        },
+        {
+            "name": "Urushi"
+        },
+        {
+            "name": "Yajirobee"
+        },
+        {
+            "name": "Yamato"
+        },
+        {
+            "name": "Yoroi Akado"
+        },
+        {
+            "name": "Yugao Uzuki"
+        },
+        {
+            "name": "Yurika"
+        },
+        {
+            "name": "Zaji"
+        }
     ]
 }
